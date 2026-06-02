@@ -45,7 +45,7 @@ The steps in Cygwin should be similar on in any POSIX compatible system running 
 5. Reboot
 
 ## HOSTS on Android
-### Using Hosts Go
+### Using Hosts Go (not available anymore)
 1. Install [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
 2. Download "HOSTS.txt" and put it somewhere inside your phone
 3. Open [Hosts Go](https://play.google.com/store/apps/details?id=dns.hosts.server.change.vip)
